@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/JayaharisaiTothala/Desktop/Kaggle/Lung%20cancer/mlruns/1/067c2d5df48f48a8a1dd87b469dfe8ed/artifacts
+end_time: 1658898996388
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 067c2d5df48f48a8a1dd87b469dfe8ed
+run_uuid: 067c2d5df48f48a8a1dd87b469dfe8ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658898993648
+status: 3
+tags: []
+user_id: JayaharisaiTothala
